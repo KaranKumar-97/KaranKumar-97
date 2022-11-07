@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Karan Kumar
-- 🏫 Currently pursuinng B.tech CSE from Maharaja Surajmal Institute of technology
+- 🏫 Currently a sophomore pursuing B.tech CSE from Maharaja Surajmal Institute of technology
 - 🌱 I’m currently learning DSA in C++ , Web Development and exploring other various tech and non tech fields.
 
 [![@karankumar97's Holopin board](https://holopin.me/karankumar97)](https://holopin.io/@karankumar97)
