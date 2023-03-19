@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karan Kumar
-- 🏫 
-- 🌱 I’m currently learning DSA in C++ , Web Development and exploring other various tech and non tech fields.
+- 🏫 Currently a Sophomore pursuing B.tech in CSE from Maharaja Surajmal Institute of Technology.
+- 🧑‍💻 I’m currently learning DSA in C++ , Web Development and exploring other various tech and non tech fields.
 
 [![@karankumar97's Holopin board](https://holopin.me/karankumar97)](https://holopin.io/@karankumar97)
 <!---
