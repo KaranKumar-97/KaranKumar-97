@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Karan Kumar</h1>
 <h3 align="center">An Aspiring Web Developer and Software Engineer👨‍💻</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KaranKumar-97&label=Profile%20views&color=0e75b6&style=flat" alt="KaranKumar" /> </p>
+
 - 🏫 Currently a Sophomore pursuing B.tech in CSE from Maharaja Surajmal Institute of Technology.
 - 🧑‍💻 I’m currently learning DSA in C++ , Web Development and exploring other various tech and non tech fields.
 
@@ -18,8 +20,10 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="left">📃 GitHub Statistics</h2>
 
-<p><image width="500px" src="https://github-readme-stats.vercel.app/api?username=KaranKumar-97&theme=radical" alt="KaranKumar-97"></p>
+<div style="display:flex; align-items:center;justify-content:center;">
+<image width="440px" padding-left ="50px" src="https://github-readme-stats.vercel.app/api?username=KaranKumar-97&theme=radical" alt="KaranKumar-97">
 
-<p><image width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranKumar-97&layout=compact" alt="KaranKumar-97"></p>
+<image width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranKumar-97&layout=compact" alt="KaranKumar-97">
 
-<p><img align="center" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=KaranKumar-97&theme=dark" alt="KaranKumar-97" /></p>
+<img width="440px" src="https://github-readme-streak-stats.herokuapp.com/?user=KaranKumar-97&theme=dark" alt="KaranKumar-97">
+</div>
