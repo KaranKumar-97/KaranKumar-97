@@ -21,9 +21,9 @@ You can click the Preview link to take a look at your changes.
 <h2 align="left">📃 GitHub Statistics</h2>
 
 <div style="display:flex; align-items:center;justify-content:center;">
-<image width="440px" padding-left ="50px" src="https://github-readme-stats.vercel.app/api?username=KaranKumar-97&theme=radical" alt="KaranKumar-97">
+<image width="440px" padding-left ="50px" src="https://github-readme-stats.vercel.app/api?username=KaranKumar-97&theme=holi&show_icons=true" alt="KaranKumar-97">
 
-<image width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranKumar-97&layout=compact" alt="KaranKumar-97">
+<image width="335px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranKumar-97&theme=holi&layout=compact" alt="KaranKumar-97">
 
-<img width="440px" src="https://github-readme-streak-stats.herokuapp.com/?user=KaranKumar-97&theme=dark" alt="KaranKumar-97">
+<img width="440px" src="https://github-readme-streak-stats.herokuapp.com/?user=KaranKumar-97&theme=github-dark-blue" alt="KaranKumar-97">
 </div>
