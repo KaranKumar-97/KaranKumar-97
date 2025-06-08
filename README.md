@@ -1,10 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Karan Kumar</h1>
-<h3 align="center">An Aspiring Web Developer and Software Engineer👨‍💻</h3>
+<h3 align="center">Software Engineer @  <img src="https://github.com/user-attachments/assets/8f43aae4-19b4-456e-bbae-688021223cf4" alt="Salescode" width="110" />  | Full Stack MERN Developer | MSIT (B.Tech CSE) </h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KaranKumar-97&label=Profile%20views&color=0e75b6&style=flat" alt="KaranKumar" /> </p>
 
-- 🏫 Currently a Sophomore pursuing B.tech in CSE from Maharaja Surajmal Institute of Technology.
-- 🧑‍💻 I’m currently learning DSA in C++ , Web Development and exploring other various tech and non tech fields.
+- 🧑‍💻 I am currently working as a **Software Engineer** at SalesCode.ai, where I’m contributing to product development using **React** and **Flutter** for building scalable and responsive web and mobile applications..
+- 🏫 I’m a 2025 B.Tech graduate in Computer Science and Engineering from Maharaja Surajmal Institute of Technology (GGSIPU).
+
 
 <h2 align="left">My Holopin Board</h2>
 
